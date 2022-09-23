@@ -1,7 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **VueJs, NodeJs**
-
 - 👨‍💻 All of my projects are available at [www.nifweb.com/calismalarimiz/](www.nifweb.com/calismalarimiz/)
 
 
