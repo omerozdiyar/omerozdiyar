@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.nifweb.com/calismalarimiz/](www.nifweb.com/calismalarimiz/)
+- 👨‍💻 All of my projects are available at <a href="https://www.nifweb.com/calismalarimiz/">(www.nifweb.com/calismalarimiz/)</a>
 
 
 <h3 align="left">Programming Languages:</h3>
